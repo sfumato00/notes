@@ -34,9 +34,9 @@ Of course, the 3 fictional characters are made up. But their growth trajactories
 
 Do you see the obsurdity in the these statements? Of course they are because otherwise, Bob's path wouldn't be plausible. The theory is that even though everyone is born with different circumstances that oneself cannot control, there are factors that one can. 
 
-So, if you disagree with me, please explain where I am wrong. But **`All my friends [do this or that]...`** is not an explanation. 
+So, if you disagree with me, please explain where I am wrong. But **`All my friends [do this or that]...`** is not an argument for anything.
 
-I understand `I am short. And it is genetic`. I am not trying to change Nahaul's genetics. I am trying to help her reach **her full potential HOWEVER POOR THAT MAY BE**.
+I understand `I am short. And it is genetic`. I am not trying to change her genetics. I am trying to help her reach **her full potential HOWEVER POOR THAT MAY BE**.
 
 Of course, we can talk about what other people do, but those approches don't **logically** prove or disprove anything.
 
@@ -44,7 +44,7 @@ Of course, we can talk about what other people do, but those approches don't **l
 
 I don't think we disagree the follows, but still let me lay them out:
 
-We understand the mechanics of toddler's height growth, understand what are the key factors, and optimize toward improving those key factors. 
+We understand the mechanics of toddler's height growth, understand what are the key factors, and optimize toward improving those key factors.
 
 So far, we both agree, the 2 utmost important actionable factors are:
     - Nutrition
